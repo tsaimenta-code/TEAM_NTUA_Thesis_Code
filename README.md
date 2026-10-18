@@ -53,10 +53,6 @@ running them.
 
 Tested with Python 3, pandas, matplotlib and odfpy.
 
-## Data
-
-The exported COMSOL results (`.ods`) are in `data/`. The COMSOL model files (`.mph`) are not
-included because of their size; they are available from the author on request.
 
 ## Citation
 
